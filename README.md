@@ -1,4 +1,4 @@
-# Kubernetes Web Application Deployment – README
+# Kubernetes Web Application Deployment with Ingress
 
 This project contains Kubernetes manifests for deploying a web application using a Deployment and exposing it through a Service and an Ingress. The setup is designed to run a frontend web application container and make it accessible externally through an NGINX Ingress Controller.
 
